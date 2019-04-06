@@ -32,7 +32,10 @@ $web-font-path: "https://fonts.googleapis.com/css?family=News+Cycle:400,700" !de
   font-family: $headings-font-family;
   font-weight: $headings-font-weight;
 }
-
+.aboutjumbotron{
+  
+  background-image: url("../assets/images/bonus.jpg")
+}
 .navbar-brand {
   padding-top: 0.5rem;
   font-size: inherit;

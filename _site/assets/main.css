@@ -2442,6 +2442,8 @@ a.text-dark:hover, a.text-dark:focus { color: #090909 !important; }
 
 .navbar { font-size: 18px; font-family: "News Cycle", "Arial Narrow Bold", sans-serif; font-weight: 700; }
 
+.aboutjumbotron { background-image: url("../assets/images/bonus.jpg"); }
+
 .navbar-brand { padding-top: 0.5rem; font-size: inherit; font-weight: 700; text-transform: uppercase; }
 
 .btn { font-family: "News Cycle", "Arial Narrow Bold", sans-serif; font-weight: 700; }
